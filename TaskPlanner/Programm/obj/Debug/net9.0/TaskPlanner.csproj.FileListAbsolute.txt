@@ -1,0 +1,14 @@
+C:\Users\Ivan\Documents\Code\CoolOrangeGit\TaskPlanner\Programm\bin\Debug\net9.0\TaskPlanner.exe
+C:\Users\Ivan\Documents\Code\CoolOrangeGit\TaskPlanner\Programm\bin\Debug\net9.0\TaskPlanner.deps.json
+C:\Users\Ivan\Documents\Code\CoolOrangeGit\TaskPlanner\Programm\bin\Debug\net9.0\TaskPlanner.runtimeconfig.json
+C:\Users\Ivan\Documents\Code\CoolOrangeGit\TaskPlanner\Programm\bin\Debug\net9.0\TaskPlanner.dll
+C:\Users\Ivan\Documents\Code\CoolOrangeGit\TaskPlanner\Programm\bin\Debug\net9.0\TaskPlanner.pdb
+C:\Users\Ivan\Documents\Code\CoolOrangeGit\TaskPlanner\Programm\obj\Debug\net9.0\TaskPlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Documents\Code\CoolOrangeGit\TaskPlanner\Programm\obj\Debug\net9.0\TaskPlanner.AssemblyInfoInputs.cache
+C:\Users\Ivan\Documents\Code\CoolOrangeGit\TaskPlanner\Programm\obj\Debug\net9.0\TaskPlanner.AssemblyInfo.cs
+C:\Users\Ivan\Documents\Code\CoolOrangeGit\TaskPlanner\Programm\obj\Debug\net9.0\TaskPlanner.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Documents\Code\CoolOrangeGit\TaskPlanner\Programm\obj\Debug\net9.0\TaskPlanner.dll
+C:\Users\Ivan\Documents\Code\CoolOrangeGit\TaskPlanner\Programm\obj\Debug\net9.0\refint\TaskPlanner.dll
+C:\Users\Ivan\Documents\Code\CoolOrangeGit\TaskPlanner\Programm\obj\Debug\net9.0\TaskPlanner.pdb
+C:\Users\Ivan\Documents\Code\CoolOrangeGit\TaskPlanner\Programm\obj\Debug\net9.0\TaskPlanner.genruntimeconfig.cache
+C:\Users\Ivan\Documents\Code\CoolOrangeGit\TaskPlanner\Programm\obj\Debug\net9.0\ref\TaskPlanner.dll
